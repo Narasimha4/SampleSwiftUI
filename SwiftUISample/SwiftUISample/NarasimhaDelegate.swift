@@ -10,7 +10,7 @@ import UIKit
 import SwiftUI
 
 @UIApplicationMain
-class SceneDelegate: UIResponder, UIWindowSceneDelegate, UIApplicationDelegate {
+class NarasimhaDelegate: UIResponder, UIWindowSceneDelegate, UIApplicationDelegate {
     
     var window: UIWindow?
     
